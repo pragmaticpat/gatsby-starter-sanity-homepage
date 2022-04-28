@@ -57,10 +57,10 @@ You will need a Sanity account to use this starter. You can create a new account
       yarn start
       ```
 
-   1. In your _Gatsby site's directory_, to create `.env.development` and `.env.production` files with configuration for your Sanity project, run:
+   1. In your _Gatsby site's directory_, to install any remaining dependencies and create `.env.development` and `.env.production` files with configuration for your Sanity project, run:
 
       ```sh
-      yarn setup
+      yarn && yarn setup
       ```
 
 1. **Start developing**
